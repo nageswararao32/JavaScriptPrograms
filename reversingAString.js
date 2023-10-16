@@ -12,5 +12,5 @@ for (var i = 0; i < string.length; i++) {
 revString += revWord;
 console.log(revString);
 
-
-
+OUTPUT:
+sihT si a ynnus yad
