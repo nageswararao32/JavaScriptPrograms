@@ -9,3 +9,6 @@ for (var i = 0; i < arr.length; i++) {
     }
 }
 console.log(arr);
+
+OUTPUT:
+[14444, 4234, 999, 555, 55,  31, 11, 6, 5, 3, 2]
